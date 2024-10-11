@@ -1,7 +1,7 @@
 # The URL the site will be built for
-base_url = "https://gacallea.github.io"
+base_url = "https://andreacfromtheapp.github.io"
 
-title = "~/gacallea"
+title = "Andrea C From The App"
 description = "Andrea Callea Home Page"
 author = "Andrea C"
 
@@ -137,7 +137,7 @@ stylesheets = []
 # Remote repository for your Zola site.
 # Used for `show_remote_changes` and `show_remote_source` (see below).
 # Supports GitHub, GitLab, Gitea, and Codeberg.
-remote_repository_url = "https://github.com/gacallea/gacallea.github.io"
+remote_repository_url = "https://github.com/andreacfromtheapp/andreacfromtheapp.github.io"
 # Set this to "auto" to try and auto-detect the platform based on the repository URL.
 # Accepted values are "github", "gitlab", "gitea", and "codeberg".
 remote_repository_git_platform = "auto" # Defaults to "auto".
@@ -198,7 +198,7 @@ favicon_emoji = ""
 # Read more: https://nikitahl.com/html-meta-tags-for-social-media
 # Using an image representative of each post is recommended. You can do so by setting this variable in the [extra] section of a post's front matter.
 # If a post doesn't have a social media card, the site's default, below, will be used.
-social_media_card = "img/gacallea.webp"
+social_media_card = "img/andreacfromtheapp.webp"
 
 menu = [
   { name = "blog", url = "blog", trailing_slash = true },
@@ -227,7 +227,7 @@ encode_plaintext_email = true # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder
 socials = [
-  { name = "GitHub", url = "https://github.com/gacallea/", icon = "github" },
+  { name = "GitHub", url = "https://github.com/andreacfromtheapp/", icon = "github" },
   { name = "LinkedIn", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
   { name = "Mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
   { name = "BlueSky", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "bluesky" },
@@ -288,7 +288,7 @@ copyright = "© $CURRENT_YEAR Andrea Callea $SEPARATOR Unless otherwise noted, t
 [extra.giscus]
 enabled_for_all_posts = true
 automatic_loading = true
-repo = "gacallea/gacallea.github.io"
+repo = "andreacfromtheapp/andreacfromtheapp.github.io"
 repo_id = "R_kgDOLoVY-w"
 category = "Announcements"
 category_id = "DIC_kwDOLoVY-84Chc2K"
