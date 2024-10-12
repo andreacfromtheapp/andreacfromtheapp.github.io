@@ -229,7 +229,7 @@ encode_plaintext_email = true # Setting is ignored if email is already encoded.
 socials = [
   { name = "GitHub", url = "https://github.com/andreacfromtheapp/", icon = "github" },
   { name = "LinkedIn", url = "https://www.linkedin.com/in/gacallea", icon = "linkedin" },
-  { name = "Mastodon", url = "https://stereophonic.space/gacallea", icon = "mastodon" },
+  { name = "Mastodon", url = "https://c.im/@andreacfromtheapp", icon = "mastodon" },
   { name = "BlueSky", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "bluesky" },
 ]
 
