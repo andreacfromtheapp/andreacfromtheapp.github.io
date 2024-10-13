@@ -159,7 +159,7 @@ show_reading_time = true
 
 # Adds backlinks to footnotes (loads ~500 bytes of JavaScripts).
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://github.com/welpo/tabi/pull/128
-footnote_backlinks = false
+footnote_backlinks = true
 
 # Enable KaTeX for all posts.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://github.com/welpo/tabi/pull/128
