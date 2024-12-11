@@ -12,10 +12,7 @@ this is my first post just to notify you that - for the time being - I don't
 post much here.
 
 If you would like to follow or stay up to date with my shenanigans, Mastodon
-and BlueSky are the places. Preferable, as they're more human. Social links in
-the footer.
-
-BTW, I don't post much there either but I like the community connections.
+is the place. Preferable, as it's more human. Social links in the footer.
 
 ## Apps
 
