@@ -25,9 +25,8 @@ ecosystem as a
 [stake pool operator](https://docs.cardano.org/operating-a-stake-pool/about-stake-pools/)
 and
 [Shelley Pioneer](https://iohk.io/en/blog/posts/2020/04/29/from-byron-to-shelley-part-one-the-testnets/).
-Until, one day, I sadly
-[lost anything digitally relevant](https://twitter.com/insaladaPool/status/1380087586509709312).
-Thanks to [Cardano](https://www.essentialcardano.io/) I fell in love with
+Until, one day, I sadly lost anything digitally relevant. Thanks to
+[Cardano](https://www.essentialcardano.io/) I fell in love with
 [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
 
 After my [failed attempt at professional sound design](/content/sound/), I've
