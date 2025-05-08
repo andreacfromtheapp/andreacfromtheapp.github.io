@@ -9,11 +9,11 @@ show_reading_time = false
 quick_navigation_buttons = true
 +++
 
-When I left system administration behind, I graduated in
+I graduated in
 [Sound Design For Visual Media](https://vfs.edu/programs/sound-design) at
 [Vancouver Film School](https://vfs.edu/about-vfs) and explored a creative
-career as a sound designer. During VFS complete and formative sound design
-program we learned acoustics, necessary theory, and several production sound and
+career as a sound designer. VFS complete and formative sound design program
+comprised acoustics, necessary theories, and several production sound and
 post-production disciplines. Including but not limited to:
 [boom op](<https://en.wikipedia.org/wiki/Boom_operator_(media)>),
 [utility](https://en.wikipedia.org/wiki/Utility_sound_technician),

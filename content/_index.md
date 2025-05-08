@@ -10,7 +10,5 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-Versatile creative. Hobbyist musician. [HSP](https://hsperson.com). Idealist.
-Weirdo. Misfit. Gifted engineer. Aspiring
-[Rustacean](https://www.rust-lang.org). Ex Linux SysAdmin.
-[Cardano](https://www.essentialcardano.io) enthusiast. Technoutopian.
+Versatile creative. [HSP](https://hsperson.com). Idealist. Weirdo. Misfit.
+[Rustacean](https://www.rust-lang.org). DevOps Engineer.

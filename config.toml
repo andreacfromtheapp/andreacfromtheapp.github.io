@@ -221,18 +221,17 @@ full_content_in_feed = false
 # Protect against spambots:
 # 1. Use base64 for email (convert at https://www.base64encode.org/ or `printf 'your@email.com' | base64`).
 # 2. Or, set 'encode_plaintext_email' to true for auto-encoding (only protects on site, not in public repos).
-email = "YW5kcmVhLmNhbGxlYUBwbS5tZQ=="
+# email = "YW5kcmVhLmNhbGxlYUBwbS5tZQ=="
 # Decoding requires ~400 bytes of JavaScript. If JS is disabled, the email won't be displayed.
-encode_plaintext_email = true # Setting is ignored if email is already encoded.
+# encode_plaintext_email = true # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder
 socials = [
   { name = "GitHub", url = "https://github.com/andreacfromtheapp/", icon = "github" },
   { name = "LinkedIn", url = "https://www.linkedin.com/in/andreacfromtheapp", icon = "linkedin" },
   { name = "Mastodon", url = "https://c.im/@andreacfromtheapp", icon = "mastodon" },
-  { name = "Pixelfed", url = "https://gram.social/i/web/profile/791291086346482905", icon = "pixelfed" },
-  { name = "PeerTube", url = "https://makertube.net/a/gentlewash/video-channels", icon = "peertube" },
-  # { name = "BlueSky", url = "http://bsky.app/profile/andreacfromtheapp.bsky.social", icon = "bluesky" },
+  # { name = "Pixelfed", url = "https://gram.social/i/web/profile/791291086346482905", icon = "pixelfed" },
+  # { name = "PeerTube", url = "https://makertube.net/a/gentlewash/video-channels", icon = "peertube" },
 ]
 
 # Extra menu to show on the footer, below socials section.
