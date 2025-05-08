@@ -12,5 +12,5 @@ max_posts = 4
 
 Versatile creative. Hobbyist musician. [HSP](https://hsperson.com). Idealist.
 Weirdo. Misfit. Gifted engineer. Aspiring
-[Rustacean](https://www.rust-lang.org). Ex Linux SysAdmin.
+[Rustacean](https://www.rust-lang.org). Senior DevOps Engineer.
 [Cardano](https://www.essentialcardano.io) enthusiast. Technoutopian.
