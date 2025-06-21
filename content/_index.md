@@ -10,5 +10,5 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-Versatile creative. [HSP](https://hsperson.com). Idealist. Weirdo. Misfit.
-[Rustacean](https://www.rust-lang.org). DevOps Engineer.
+Versatile creative. [HSP](https://hsperson.com). Aspiring
+[Rustacean](https://www.rust-lang.org). SysOps, WebOps, DevOps Engineer.
